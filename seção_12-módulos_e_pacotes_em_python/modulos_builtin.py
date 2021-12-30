@@ -30,6 +30,10 @@ print(rdn())
 https://docs.python.org/3/py-modindex.html
 """
 
+# utilizado no programa modulos_customizados.py
+def soma(a, b):
+    return a + b
+
 # Costumamos a utilizar tuple para colocar múltiplos imports de um mesmo módulo
 from random import (
     random,

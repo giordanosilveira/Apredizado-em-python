@@ -95,6 +95,7 @@ print(nome_completo(sobrenome=sobrenome, nome=nome))
 # Erro comum na utilização do return
 
 
+"""
 def soma_impares(numeros):
     soma = 0
     for num in numeros:
@@ -103,11 +104,11 @@ def soma_impares(numeros):
     return soma
 
 
-numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-print(soma_impares(numeros))
+if __name__ == '__main__':
+    numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    print(soma_impares(numeros))
 
-tupla = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
-print(soma_impares(numeros))
-"""
+    tupla = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+    print(soma_impares(numeros))
 
 
