@@ -21,7 +21,6 @@ print(Fore.MAGENTA + 'Giordano Silveira')
 print(Fore.BLUE + 'Giordano Silveira')
 
 """
-
 # installar o pdf-python primeiro
 import pydf
 
