@@ -1,0 +1,1 @@
+A seção 13 do curso de Python é sobre Leitura e Escrita de arquivos.
